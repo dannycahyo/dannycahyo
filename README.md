@@ -12,14 +12,9 @@ Danny is a passionate Frontend Engineer with a high curiosity in mind. His inter
 
 While focusing on his day-to-day work, he actively mentors new engineers in the tech community in Probolinggo. Besides, he proactively shares his knowledge through sharing sessions and mini-workshops in that community. During his free time, he usually spends his time to expands his knowledge by reading a book and making content on Tiktok and Instagram.
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycahyo&layout=compact" />
 
-## Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight)
-
-## 📊 Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycahyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 *React, React Native, Next.JS, Gatsby, XSTATE, React Query, Chakra UI, Jest, React Testing Library, etc.*
