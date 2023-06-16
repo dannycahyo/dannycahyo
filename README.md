@@ -8,9 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
 
-Danny is a passionate Frontend Engineer with a high curiosity in mind. His interest makes him connect the dots between mathematics and philosophy in programming. He also loves to code in functional programming paradigms. Still, he keeps learning other paradigms to widen his perspective and believes that solving a problem can be done in many ways. 
+Danny is a dedicated Frontend Engineer with a strong passion for programming and an insatiable curiosity. He excels in connecting the dots between mathematics and philosophy within the coding realm and enjoys working within functional programming paradigms. Still, he keeps learning other paradigms to widen his perspective and believes that solving a problem can be done in many ways. Eager to continually broaden his perspectives, Danny is currently focused on deep-diving into data structures and algorithms to enhance his problem-solving abilities and optimize the code he creates.
 
-While focusing on his day-to-day work, he actively mentors new engineers in the tech community in Probolinggo. Besides, he proactively shares his knowledge through sharing sessions and mini-workshops in that community. During his free time, he usually spends his time to expands his knowledge by reading a book and making content on Tiktok and Instagram.
+In addition to his day-to-day work, Danny takes pride in mentoring new engineers in the Probolinggo tech community and sharing his expertise through engaging discussions and mini-workshops. In his free time, Danny enjoys creating short-format content for TikTok and Instagram to share his knowledge and experiences further. When he's not busy coding or creating, he can be found expanding his expertise by reading various books.
 
 <a href="https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight" />
