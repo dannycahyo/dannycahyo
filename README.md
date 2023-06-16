@@ -12,14 +12,6 @@ Danny is a dedicated Frontend Engineer with a strong passion for programming and
 
 In addition to his day-to-day work, Danny takes pride in mentoring new engineers in the Probolinggo tech community and sharing his expertise through engaging discussions and mini-workshops. In his free time, Danny enjoys creating short-format content for TikTok and Instagram to share his knowledge and experiences further. When he's not busy coding or creating, he can be found expanding his expertise by reading various books.
 
-<a href="https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannycahyo&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycahyo&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycahyo&layout=compact" />
-</a>
-
-
 
 ## 🔧 Technologies & Tools
 *React, React Native, Next.JS, Gatsby, XSTATE, React Query, Chakra UI, Jest, React Testing Library, etc.*
