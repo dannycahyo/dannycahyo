@@ -13,15 +13,9 @@ In addition to his day-to-day work, Danny takes pride in mentoring new engineers
 
 ## 🛠 &nbsp;Technologies & Tools
 
-#### Frontend
-
 _Javascript, Typescript, ReasonML, React, Next.js, Remix, React Native, Gatsby, Svelte, Vite, Webpack, Xstate, React Query, GraphQL, Jest, React Testing Libary, MSW, HTML 5, CSS, Styled Component, etc._
 
-#### Backend
-
 _Node.js, Java, Express, SpringBoot, Prisma, Sequelize, GraphQL, Apollo Server, REST API, JWT, MongoDB, MySQL, PostgreSQL, etc._
-
-#### DevOps
 
 _Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
 
