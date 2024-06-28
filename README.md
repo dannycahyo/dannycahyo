@@ -7,9 +7,7 @@
 [![LeetCode](https://img.shields.io/badge/-danny_cahyo-yellow?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/danny_cahyo/)
 ![Visitor](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
-Danny is a dedicated Frontend Engineer with a strong passion for programming and an insatiable curiosity. He excels in connecting the dots between mathematics and philosophy within the coding realm and enjoys working within functional programming paradigms. Still, he keeps learning other paradigms to widen his perspective and believes that solving a problem can be done in many ways. Eager to continually broaden his perspectives, Danny is currently focused on deep-diving into data structures and algorithms to enhance his problem-solving abilities and optimize the code he creates.
-
-In addition to his day-to-day work, Danny takes pride in mentoring new engineers in the Probolinggo tech community and sharing his expertise through engaging discussions and mini-workshops. In his free time, Danny enjoys creating short-format content for TikTok and Instagram to share his knowledge and experiences further. When he's not busy coding or creating, he can be found expanding his expertise by reading various books.
+Danny is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the Probolinggo tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
 
 ## 🛠 &nbsp;Technologies & Tools
 
