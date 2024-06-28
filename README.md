@@ -11,7 +11,7 @@ Danny is a dedicated Frontend Engineer with a strong passion for programming and
 
 In addition to his day-to-day work, Danny takes pride in mentoring new engineers in the Probolinggo tech community and sharing his expertise through engaging discussions and mini-workshops. In his free time, Danny enjoys creating short-format content for TikTok and Instagram to share his knowledge and experiences further. When he's not busy coding or creating, he can be found expanding his expertise by reading various books.
 
-### 🛠 &nbsp;Technologies & Tools
+## 🛠 &nbsp;Technologies & Tools
 
 #### Frontend
 
@@ -78,3 +78,9 @@ Other                      5 hrs 18 mins   ░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:wakatime-->
+
+## 🏆 GitHub Profile Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannycahyo" alt="dannycahyo" /></a> </p>
+
+<sub>Credit: Danny Dwi Cahyono, last edit on - 29 June 2024</sub>
