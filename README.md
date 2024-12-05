@@ -71,8 +71,4 @@ Other                      9 hrs 30 mins   ░░░░░░░░░░░░�
 
 <!--END_SECTION:wakatime-->
 
-## 🏆 GitHub Profile Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannycahyo" alt="dannycahyo" /></a> </p>
-
-<sub>Credit: Danny Dwi Cahyono, last edit on - 29 June 2024</sub>
+<sub>Credit: Danny Dwi Cahyono, last edit on - 5 December 2024</sub>
