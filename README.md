@@ -53,7 +53,7 @@ _Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
 <!--START_SECTION:wakatime-->
 
 ```typescript
-From: 13 March 2023 - To: 31 January 2025
+From: 13 March 2023 - To: 01 February 2025
 
 Total Time: 1,604 hrs 51 mins
 
