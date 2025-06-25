@@ -50,17 +50,17 @@ _Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
 <!--START_SECTION:wakatime-->
 
 ```typescript
-From: 13 March 2023 - To: 23 June 2025
+From: 13 March 2023 - To: 24 June 2025
 
-Total Time: 1,990 hrs 48 mins
+Total Time: 1,997 hrs 2 mins
 
-TypeScript                 1,280 hrs 30 mins████████████████░░░░░░░░░   63.91 %
-JavaScript                 180 hrs 47 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Java                       169 hrs 9 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-JSON                       97 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Markdown                   77 hrs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-YAML                       48 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Docker                     29 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript                 1,286 hrs 43 mins████████████████░░░░░░░░░   64.02 %
+JavaScript                 180 hrs 47 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Java                       169 hrs 9 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+JSON                       97 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown                   77 hrs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+YAML                       48 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Docker                     29 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 Bash                       24 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 HTML                       19 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 Other                      12 hrs 51 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
