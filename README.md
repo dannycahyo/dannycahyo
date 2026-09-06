@@ -7,7 +7,7 @@
 [![LeetCode](https://img.shields.io/badge/-danny_cahyo-yellow?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/danny_cahyo/)
 ![Visitor](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
-Danny is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the Probolinggo tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
+Danny is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the local tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
 
 ## 🛠 &nbsp;Technologies & Tools
 
