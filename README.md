@@ -15,7 +15,7 @@ _Javascript, Typescript, ReasonML, React, Next.js, Remix, React Native, Gatsby, 
 
 _Node.js, Java, C#, Express, SpringBoot, .NET, Prisma, Sequelize, GraphQL, Apollo Server, REST API, JWT, MongoDB, MySQL, PostgreSQL, etc._
 
-_Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
+_Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, Tencent, AWS, etc._
 
 <!--START_SECTION:wakatime-->
 
