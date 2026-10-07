@@ -7,7 +7,9 @@
 [![LeetCode](https://img.shields.io/badge/-danny_cahyo-yellow?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/danny_cahyo/)
 ![Visitor](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
-Danny is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the local tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
+Full-stack software engineer with 5+ years of experience building fintech and edtech products end to end, across web and mobile. My work covers the whole path from database design to the interface people use, and extends past the code into packaging, automated releases, and cloud infrastructure. Testing is part of how I build: unit and end-to-end tests go in alongside the features, so the product keeps working as it grows.
+
+Outside of work, I share what I learn about software engineering in short videos, to an audience of 23K+ on Instagram and 14K+ on TikTok. Creating them has sharpened my ability to explain complex systems simply, a skill that carries over to daily work with teammates and stakeholders. A one-minute video and a production system get held to the same standard: clear enough to understand, and solid enough to rely on.
 
 ## 🛠 &nbsp;Technologies & Tools
 
